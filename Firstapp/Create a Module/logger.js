@@ -1,4 +1,4 @@
-var x=;
+// var x=;
 var url = 'http://mylog.io/log';
 
 function log(message){
